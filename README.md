@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nicoondig
+- 👋 Hi, I’m @Nicolò Manfredi
 - 👀 I’m interested in ...AI, machine learning and all programming science
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
